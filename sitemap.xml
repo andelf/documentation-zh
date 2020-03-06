@@ -1,143 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/Tron-overview/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/advanced-configuration/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/glossary/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/api/http/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/api/rpc/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    
+
+    
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/architecture/database/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/architecture/network/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/architecture/plugin/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    
+
+    
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/clients/tron-grid/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/clients/wallet-cli/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    
+
+    
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/contracts/compiler/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/contracts/contract/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/contracts/trc20/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/contracts/tvm/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    
+
+    
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/developers/contribution/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/developers/deployment/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/developers/incentives/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/developers/java-tron/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/developers/official-public-nodes/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/developers/resources/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/developers/run_in_IDEA/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/developers/tips/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    
+
+    
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/introduction/dpos/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/introduction/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    
+
+    
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/mechanism&algorithm/account/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/mechanism&algorithm/dex/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/mechanism&algorithm/multi-signatures/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     <url>
-     <loc>None</loc>
-     <lastmod>2020-01-20</lastmod>
+     <loc>/mechanism&algorithm/resource/</loc>
+     <lastmod>2020-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/mechanism&algorithm/shielded-transaction/</loc>
+     <lastmod>2020-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/mechanism&algorithm/sr/</loc>
+     <lastmod>2020-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/mechanism&algorithm/systemContracts/</loc>
+     <lastmod>2020-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/mechanism&algorithm/trc10/</loc>
+     <lastmod>2020-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/q&a/qa/</loc>
+     <lastmod>2020-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
 </urlset>
